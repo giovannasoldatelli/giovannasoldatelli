@@ -2,5 +2,4 @@
 
 ### Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Giovanna, I'm a medical doctor from Brazil. I just recently gratuated from the Pontifical Catholic University of Parana, and I'm currently trying to 
-revalidate my medical diploma in the 🇬🇧
+My name is Giovanna, I'm a medical doctor from Brazil. I just recently gratuated from the Pontifical Catholic University of Parana, and I'm also e doctor in the 🇬🇧
